@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>China <h1> 
+      <img src="images-(1).png" alt="images-(1).png">
+      <p>China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country, with a population exceeding 1.4 billion. China spans the equivalent of five time zones and borders fourteen countries by land, tied with Russia as having the most of any country in the world. Wikipedia
+      Capital: Beijing
+      CO2 emissions per capita: 7.61 metric tons (2019) World Bank
+      Electricity consumption per capita: 3,905.32 kWh (2014) World Bank
+      Energy use per capita: 2,224.35 kg of oil equivalent (2014) World Bank
+      Fertility rate: 1.28 births per woman (2020) World Bank
+      GDP growth rate: 8.1% annual change (2021) World Bank
+      Gross domestic product: 17.73 trillion USD (2021) World Bank  
+      </p>
+  </body>
+</html>

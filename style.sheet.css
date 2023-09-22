@@ -1,0 +1,19 @@
+body {
+  background-color:gainsboro
+}
+p {
+  font-style: oblique;
+  color: midnightblue; 
+  font-size: 24px; 
+
+
+}
+li {
+  font-size: 19px;
+  color: olivedrab;
+  font-style: italic
+
+}
+img {
+  float: right
+}
